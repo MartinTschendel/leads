@@ -11,3 +11,8 @@ Training a logistic regression model for classification, that can be used for ma
 - here I added extra columns with values = 0 in order to get the same feature numbers for the training and validation sets
 
 - Sep 11 2020: added a ROC curve to the notebook. At low thresholds (upper right corner)), the performance is worse than in a random model. The performance improves with increasing thresholds, as the curve moves towards the upper left corner. 
+
+## further imputing and one-hot-encoding methods
+
+- in the notebook 201024-Preprocessing, additional imputing and one-hot-encoding methods are applied
+
