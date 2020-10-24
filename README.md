@@ -14,5 +14,5 @@ Training a logistic regression model for classification, that can be used for ma
 
 ## further imputing and one-hot-encoding methods
 
-- in the notebook 201024-Data-Preprocessing, additional imputing and one-hot-encoding methods are applied (also the respective data.csv is uploaded)
+- in the notebook 201024-Preprocessing, additional imputing and one-hot-encoding methods are applied (also the respective data.csv is uploaded)
 
